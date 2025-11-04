@@ -20,6 +20,8 @@ MediQuick is a simple, PHP-MySQL-based web application designed for booking and 
 - View My Appointments
 - Admin Dashboard to View All Users and Appointments
 - Responsive and Clean Design
+  Screenshot
+  ![Homepage](mediquick.jpg)
 
 ## 📁 Folder Structure
 ## ⚙️ How to Run the Project
@@ -28,5 +30,6 @@ MediQuick is a simple, PHP-MySQL-based web application designed for booking and 
 3. Update database credentials in `includes/db.php`.
 4. Open your browser and go to:  
    `http://localhost/MediQuick/index.php`
+
 
 
